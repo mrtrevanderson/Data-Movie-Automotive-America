@@ -4,6 +4,8 @@ An automated **4K motion infographic** that renders a polished 30-second looping
 
 Every time you run `npm run run-all`, fresh data is generated and a new video is rendered to `dist/lobby.mp4`. No manual editing required — the visuals are entirely data-driven.
 
+![Lobby Display Preview](preview.gif)
+
 ---
 
 ## Tech Stack
